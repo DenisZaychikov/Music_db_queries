@@ -1,6 +1,5 @@
 ```sql
-insert into Genre(name)
-values
+insert into Genre(name) values
 ('pop'),
 ('rock'),
 ('jazz'),
